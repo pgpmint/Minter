@@ -1,0 +1,7 @@
+{
+  "name": "Minter",
+  "description": "",
+  "symbol": "MINT",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/pgpmint/Minter/main/imageMinter.png"
+}
